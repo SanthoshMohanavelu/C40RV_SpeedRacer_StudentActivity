@@ -1,6 +1,6 @@
 var canvas;
 var backgroundImage, car1_img, car2_img, track;
-var fuelImage, powerCoinImage;
+var fuelImage, powerCoinImage
 
 var database, gameState;
 var form, player, playerCount;
